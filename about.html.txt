@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fashion E-commerce Website - About</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="images/favicon.png" type="image/png" />
+  </head>
+  <body>
+    <!-- Header and Navigation -->
+    <header>
+      <h1>Maverick Clothing</h1>
+    </header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <!-- About Page Content -->
+    <div class="container">
+      <section id="about">
+        <h1>About Us</h1>
+        <h2>
+          <p>
+            We are a global family of brands and businesses. We make it possible
+            for customers around the world to express themselves through fashion
+            and design in a sustainable way.
+          </p>
+        </h2>
+      </section>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,82 @@
+/* Basic CSS styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('images/background.jpg');
+  background-size: cover;
+}
+header {
+  background-color: rgb(12, 104, 146);
+  color: #fff;
+  padding: 10px 20px;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(138, 229, 241);
+  padding: 10px 0;
+}
+nav a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0 10px;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  width: calc(25% - 20px); /* 4 cards in each row */
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.card img {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ddd;
+}
+.card .details {
+  padding: 10px;
+}
+.card .buy-button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(12, 104, 146);
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-top: 1px solid #ddd;
+  border-radius: 0 0 8px 8px;
+  transition: background-color 0.3s;
+}
+.card .buy-button:hover {
+  background-color: rgb(12, 104, 146);
+}
+
+#home {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+}
+
+#about {
+  text-align: center;
+}

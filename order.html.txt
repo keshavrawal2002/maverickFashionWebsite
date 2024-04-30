@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Order Confirmation</title>
+    <link rel="stylesheet" href="style.css" />
+<link rel="icon" href="images/favicon.png" type="image/png" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <h1>Order Confirmation</h1>
+    </header>
+
+    <!-- Confirmation Message -->
+    <div class="container">
+      <p>Your order has been successfully placed!</p>
+      <p>Thank you for shopping with us.</p>
+      <a href="index.html" class="button">Return to Home</a>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fashion E-commerce Website - Contact</title>
+    <link rel="stylesheet" href="style.css" />
+<link rel="icon" href="images/favicon.png" type="image/png" />
+  </head>
+  <body>
+    <!-- Header and Navigation -->
+    <header>
+      <h1>Maverick Clothing</h1>
+    </header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <!-- Contact Page Content -->
+    <div class="container">
+      <section id="contact">
+        <h1>Contact Us</h1>
+        <h3>Email : maverick@gmail.com</hr>
+        <h3>Phone : +91-9999999999</h3>
+        <h3>Address : New Delhi</h3>
+      </section>
+    </div>
+  </body>
+</html>

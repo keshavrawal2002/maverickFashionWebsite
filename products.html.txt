@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fashion E-commerce Website - Products</title>
+    <link rel="stylesheet" href="style.css" />
+<link rel="icon" href="images/favicon.png" type="image/png" />
+  </head>
+  <body>
+    <!-- Header and Navigation -->
+    <header>
+      <h1>Maverick Clothing</h1>
+    </header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <!-- Products Page Content -->
+    <div class="container">
+      <h1>Product Catalog</h1>
+      <div class="card-container">
+        <!-- Product Cards -->
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <!-- Repeat the above card structure for each product -->
+        <!-- Example: -->
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/product.png" alt="Premium T shirt" />
+          <div class="details">
+            <h3>Premium T shirt</h3>
+            <p>Price : 1000 Rs.</p>
+            <a href="order.html" class="buy-button">Buy Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
